@@ -2,20 +2,13 @@ const {MongoClient} = require('mongodb');
 
 // Ana kategoriler
 const mainCategories = [
-    {name: "Music", description: "Music events", icon: "music_icon", color: "blue"},
-    {name: "Art", description: "Art events", icon: "art_icon", color: "yellow"},
-    {name: "Sport", description: "Sport events", icon: "sport_icon", color: "green"}
+    {name: "Tiyatro", description: "Tiyatro Etkinlikleri", externalId: 1, icon: "tiyatro_icon", color: "blue"},
+    {name: "Müzik", description: "Müzik Etkinlikleri", externalId: 2, icon: "music_icon", color: "yellow"},
+    {name: "Haber", description: "Haber Etkinlikleri", externalId: 3, icon: "haber_icon", color: "green"},
+    {name: "Psikolog Yazar", description: "Haber Etkinlikleri", externalId: 4, icon: "haber_icon", color: "green"}
+
 ];
 
-// Alt kategoriler
-const subCategories = [
-    {name: "Rock", description: "Rock music events", icon: "rock_icon", color: "black", parentName: "Music"},
-    {name: "Pop", description: "Pop music events", icon: "pop_icon", color: "pink", parentName: "Music"},
-    {name: "Painting", description: "Painting events", icon: "painting_icon", color: "orange", parentName: "Art"},
-    {name: "Sculpture", description: "Sculpture events", icon: "sculpture_icon", color: "gray", parentName: "Art"},
-    {name: "Football", description: "Football events", icon: "football_icon", color: "red", parentName: "Sport"},
-    {name: "Basketball", description: "Basketball events", icon: "basketball_icon", color: "blue", parentName: "Sport"}
-];
 
 // Ana işlev
 async function main() {
@@ -31,8 +24,6 @@ async function main() {
         // Ana kategorileri koleksiyona ekleme
         const mainCategoryIds = await insertCategories(collection, mainCategories);
 
-        // Ana kategorilerin _id değerlerini kullanarak alt kategorileri koleksiyona ekleme
-        await insertSubCategories(collection, subCategories, mainCategoryIds);
 
         console.log("Sample data inserted successfully!");
     } finally {

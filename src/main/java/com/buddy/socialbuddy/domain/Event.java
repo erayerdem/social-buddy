@@ -37,4 +37,5 @@ public class Event extends BaseDocument implements Serializable {
   private String eventDate;
   private Integer daysUntilEvent;
   private Boolean promoteOnly;
+  private List<EventSession> sessions;
 }

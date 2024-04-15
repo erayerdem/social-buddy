@@ -1,8 +1,10 @@
 package com.buddy.socialbuddy.client.dto;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 public record BubiletEvent(
     @JsonProperty("etkinlikAdi") String eventName,
     @JsonProperty("slug") String slug,
@@ -18,4 +20,5 @@ public record BubiletEvent(
     @JsonProperty("toplamSatilanBilet") int totalSoldTickets,
     @JsonProperty("etkinlikTarihi") String eventDate,
     @JsonProperty("etkinligeKalanGun") int daysUntilEvent,
-    @JsonProperty("promoteOnly") boolean promoteOnly) {}
+    @JsonProperty("promoteOnly") boolean promoteOnly,
+    @JsonProperty("seanslar") List<BubiletEventSession> bubiletEventSessions) {}

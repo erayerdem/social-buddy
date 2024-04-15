@@ -1,6 +1,7 @@
 package com.buddy.socialbuddy.controller.dto;
 
 import com.buddy.socialbuddy.domain.EventPoster;
+import com.buddy.socialbuddy.domain.EventSession;
 import java.time.LocalDateTime;
 import java.util.List;
 
@@ -10,4 +11,5 @@ public record EventDto(
     LocalDateTime eventDate,
     List<EventPoster> posters,
     String type,
-    String location) {}
+    String location,
+    List<EventSession> eventSessions) {}

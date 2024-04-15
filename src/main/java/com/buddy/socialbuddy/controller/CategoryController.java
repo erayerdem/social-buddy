@@ -16,16 +16,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("categories")
 public class CategoryController {
 
-        private final CategoryService categoryService;
-        private final CategoryMapper categoryMapper;
+  private final CategoryService categoryService;
+  private final CategoryMapper categoryMapper;
 
   @GetMapping
   public ApiResponse<List<CategoryDto>> getAllCategories() {
 
     List<CategoryDto> categories = categoryService.getAllCategories();
-
     return ApiResponse.<List<CategoryDto>>builder().data(categories).build();
-        }
+  }
 
   @GetMapping("{id}")
   public ApiResponse<CategoryDto> findById(@PathVariable("id") String id) {
@@ -33,5 +32,5 @@ public class CategoryController {
     CategoryDto category = categoryMapper.toDto(categoryService.findById(id));
 
     return ApiResponse.<CategoryDto>builder().data(category).build();
-        }
+  }
 }
