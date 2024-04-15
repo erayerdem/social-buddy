@@ -1,0 +1,2234 @@
+[
+  {
+    "etkinlikAdi": "Sena Şener Konseri",
+    "slug": "sena-sener-konseri",
+    "dosyalar": [
+      {
+        "id": 14942,
+        "url": "/files/Etkinlik/sena-sener-konseri-39235.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 14939,
+        "url": "/files/Etkinlik/sena-sener-konseri-60470.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 14940,
+        "url": "/files/Etkinlik/sena-sener-konseri-92463.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 4,
+    "sanatcilar": [
+      454
+    ],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 1285,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-04-26T18:00:00+00:00",
+        "kalanBilet": 200,
+        "fiyat": 684.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 684.00,
+        "etkinligeKalanGun": 13,
+        "satilanBilet": 12,
+        "seansId": 59381,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 1285,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59381
+    ],
+    "toplamKalanBilet": 200,
+    "toplamSatilanBilet": 12,
+    "etkinlikTarihi": "2024-04-26T18:00:00+00:00",
+    "etkinligeKalanGun": 13,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Skapova Konseri",
+    "slug": "skapova-konseri",
+    "dosyalar": [
+      {
+        "id": 30942,
+        "url": "/files/Etkinlik/skapova-konseri-13358.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 30939,
+        "url": "/files/Etkinlik/skapova-konseri-72609.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 30940,
+        "url": "/files/Etkinlik/skapova-konseri-56896.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 5,
+    "sanatcilar": [
+      869
+    ],
+    "mekanlar": [
+      737
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 1144,
+        "seansGizle": false,
+        "mekanId": 737,
+        "tarih": "2024-05-10T17:00:00+00:00",
+        "kalanBilet": 400,
+        "fiyat": 350.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 350.00,
+        "etkinligeKalanGun": 27,
+        "satilanBilet": 223,
+        "seansId": 42300,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 1144,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      42300
+    ],
+    "toplamKalanBilet": 400,
+    "toplamSatilanBilet": 223,
+    "etkinlikTarihi": "2024-05-10T17:00:00+00:00",
+    "etkinligeKalanGun": 27,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Feel The Fest Mersin",
+    "slug": "feel-the-fest-mersin",
+    "dosyalar": [
+      {
+        "id": 28144,
+        "url": "/files/Etkinlik/feel-the-fest-mersin-27819.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 28645,
+        "url": "/files/Etkinlik/feel-the-fest-mersin-83347.jpeg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 28646,
+        "url": "/files/Etkinlik/feel-the-fest-mersin-70283.jpeg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 6,
+    "sanatcilar": [
+      128,
+      141,
+      152,
+      311
+    ],
+    "mekanlar": [
+      1503
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 5042,
+        "seansGizle": false,
+        "mekanId": 1503,
+        "tarih": "2024-04-17T15:00:00+00:00",
+        "kalanBilet": 400,
+        "fiyat": 500.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 350.00,
+        "etkinligeKalanGun": 4,
+        "satilanBilet": 315,
+        "seansId": 50617,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5042,
+        "seansGizle": false,
+        "mekanId": 1503,
+        "tarih": "2024-04-18T15:00:00+00:00",
+        "kalanBilet": 256,
+        "fiyat": 500.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 350.00,
+        "etkinligeKalanGun": 5,
+        "satilanBilet": 106,
+        "seansId": 50618,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5042,
+        "seansGizle": false,
+        "mekanId": 1503,
+        "tarih": "2024-04-17T15:00:00+00:00",
+        "kalanBilet": 326,
+        "fiyat": 900.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 600.00,
+        "etkinligeKalanGun": 4,
+        "satilanBilet": 140,
+        "seansId": 50619,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 5042,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      50617,
+      50618,
+      50619
+    ],
+    "toplamKalanBilet": 982,
+    "toplamSatilanBilet": 561,
+    "etkinlikTarihi": "2024-04-17T15:00:00+00:00",
+    "etkinligeKalanGun": 4,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Dj Ali Taş ile 90’lar 2000’ler Türkçe Pop Gecesi",
+    "slug": "dj-ali-tas-ile-90lar-2000ler-turkce-pop-gecesi-",
+    "dosyalar": [
+      {
+        "id": 30749,
+        "url": "/files/Etkinlik/dj-ali-tas-ile-90lar-2000ler-turkce-pop-gecesi--97323.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 30750,
+        "url": "/files/Etkinlik/dj-ali-tas-ile-90lar-2000ler-turkce-pop-gecesi--78828.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 30751,
+        "url": "/files/Etkinlik/dj-ali-tas-ile-90lar-2000ler-turkce-pop-gecesi--69348.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 7,
+    "sanatcilar": [
+      704
+    ],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 5667,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-04-20T18:00:00+00:00",
+        "kalanBilet": 400,
+        "fiyat": 399.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 399.00,
+        "etkinligeKalanGun": 7,
+        "satilanBilet": 0,
+        "seansId": 59379,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 5667,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59379
+    ],
+    "toplamKalanBilet": 400,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-04-20T18:00:00+00:00",
+    "etkinligeKalanGun": 7,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Derya Bedavacı Konseri",
+    "slug": "derya-bedavaci-konseri",
+    "dosyalar": [
+      {
+        "id": 16199,
+        "url": "/files/Etkinlik/derya-bedavaci-konseri-58287.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 16200,
+        "url": "/files/Etkinlik/derya-bedavaci-konseri-97464.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 16201,
+        "url": "/files/Etkinlik/derya-bedavaci-konseri-39129.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 8,
+    "sanatcilar": [
+      985
+    ],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 474,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-05-10T18:00:00+00:00",
+        "kalanBilet": 512,
+        "fiyat": 1140.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 1140.00,
+        "etkinligeKalanGun": 27,
+        "satilanBilet": 0,
+        "seansId": 61158,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 474,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      61158
+    ],
+    "toplamKalanBilet": 512,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-05-10T18:00:00+00:00",
+    "etkinligeKalanGun": 27,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Herkes Kocama Benziyor",
+    "slug": "herkes-kocama-benziyor",
+    "dosyalar": [
+      {
+        "id": 13239,
+        "url": "/files/Etkinlik/herkes-kocama-benziyor-57100.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 13240,
+        "url": "/files/Etkinlik/herkes-kocama-benziyor-99327.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 23915,
+        "url": "/files/Etkinlik/herkes-kocama-benziyor-25268.jpeg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 9,
+    "sanatcilar": [
+      1031
+    ],
+    "mekanlar": [
+      319
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 2092,
+        "seansGizle": false,
+        "mekanId": 319,
+        "tarih": "2024-05-15T17:00:00+00:00",
+        "kalanBilet": 85,
+        "fiyat": 300.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 300.00,
+        "etkinligeKalanGun": 32,
+        "satilanBilet": 12,
+        "seansId": 57487,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 2092,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      57487
+    ],
+    "toplamKalanBilet": 85,
+    "toplamSatilanBilet": 12,
+    "etkinlikTarihi": "2024-05-15T17:00:00+00:00",
+    "etkinligeKalanGun": 32,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Haktan Konseri",
+    "slug": "haktan-konseri",
+    "dosyalar": [
+      {
+        "id": 16056,
+        "url": "/files/Etkinlik/haktan-konseri-32346.JPG",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 16057,
+        "url": "/files/Etkinlik/haktan-konseri-45251.JPG",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 16058,
+        "url": "/files/Etkinlik/haktan-konseri-83526.JPG",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 10,
+    "sanatcilar": [],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 1090,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-05-04T18:00:00+00:00",
+        "kalanBilet": 612,
+        "fiyat": 684.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 684.00,
+        "etkinligeKalanGun": 21,
+        "satilanBilet": 6,
+        "seansId": 59383,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 1090,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59383
+    ],
+    "toplamKalanBilet": 612,
+    "toplamSatilanBilet": 6,
+    "etkinlikTarihi": "2024-05-04T18:00:00+00:00",
+    "etkinligeKalanGun": 21,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Ceylan Ertem - 'Sezen Aksu Tribute' Konseri",
+    "slug": "ceylan-ertem-sezen-aksu-tribute",
+    "dosyalar": [
+      {
+        "id": 1519,
+        "url": "/files/Etkinlik/ceylan-ertem-konseri-25509.jpeg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 480,
+        "yukseklik": 691,
+        "sira": 0
+      },
+      {
+        "id": 3107,
+        "url": "/files/Etkinlik/ceylan-ertem-'sezen-aksu-tribute'-41920.jpeg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 1024,
+        "yukseklik": 1024,
+        "sira": 0
+      },
+      {
+        "id": 2173,
+        "url": "/files/Etkinlik/ceylan-ertem-'sezen-aksu-tribute'-47597.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 800,
+        "yukseklik": 500,
+        "sira": 1
+      }
+    ],
+    "sira": 11,
+    "sanatcilar": [
+      130
+    ],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 213,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-05-24T18:00:00+00:00",
+        "kalanBilet": 612,
+        "fiyat": 1026.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 1026.00,
+        "etkinligeKalanGun": 41,
+        "satilanBilet": 0,
+        "seansId": 61179,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 213,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      61179
+    ],
+    "toplamKalanBilet": 612,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-05-24T18:00:00+00:00",
+    "etkinligeKalanGun": 41,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Melek Mosso Konseri",
+    "slug": "melek-mosso-konseri",
+    "dosyalar": [
+      {
+        "id": 31363,
+        "url": "/files/Etkinlik/melek-mosso-konseri-82574.webp",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 31364,
+        "url": "/files/Etkinlik/melek-mosso-konseri-14181.webp",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 31365,
+        "url": "/files/Etkinlik/melek-mosso-konseri-30854.webp",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 12,
+    "sanatcilar": [
+      36
+    ],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 77,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-05-25T18:00:00+00:00",
+        "kalanBilet": 612,
+        "fiyat": 1140.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 1140.00,
+        "etkinligeKalanGun": 42,
+        "satilanBilet": 0,
+        "seansId": 61182,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 77,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      61182
+    ],
+    "toplamKalanBilet": 612,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-05-25T18:00:00+00:00",
+    "etkinligeKalanGun": 42,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Haluk Levent Konseri",
+    "slug": "haluk-levent-konseri",
+    "dosyalar": [
+      {
+        "id": 31354,
+        "url": "/files/Etkinlik/haluk-levent-konseri-23049.jpeg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 31355,
+        "url": "/files/Etkinlik/haluk-levent-konseri-84491.jpeg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 31356,
+        "url": "/files/Etkinlik/haluk-levent-konseri-45140.jpeg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 13,
+    "sanatcilar": [
+      20
+    ],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 45,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-06-01T18:00:00+00:00",
+        "kalanBilet": 612,
+        "fiyat": 1140.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 1140.00,
+        "etkinligeKalanGun": 49,
+        "satilanBilet": 0,
+        "seansId": 61183,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 45,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      61183
+    ],
+    "toplamKalanBilet": 612,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-06-01T18:00:00+00:00",
+    "etkinligeKalanGun": 49,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Sehabe & Yeis Sensura Konseri",
+    "slug": "sehabe-yeis-sensura-konseri",
+    "dosyalar": [
+      {
+        "id": 30887,
+        "url": "/files/Etkinlik/sehabe-yeis-sensura-konseri-64157.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 30885,
+        "url": "/files/Etkinlik/sehabe-yeis-sensura-konseri-17067.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 30886,
+        "url": "/files/Etkinlik/sehabe-yeis-sensura-konseri-82026.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 14,
+    "sanatcilar": [
+      166,
+      1489
+    ],
+    "mekanlar": [
+      805
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 4798,
+        "seansGizle": false,
+        "mekanId": 805,
+        "tarih": "2024-05-06T18:00:00+00:00",
+        "kalanBilet": 200,
+        "fiyat": 260.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 260.00,
+        "etkinligeKalanGun": 23,
+        "satilanBilet": 2,
+        "seansId": 59488,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 4798,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59488
+    ],
+    "toplamKalanBilet": 200,
+    "toplamSatilanBilet": 2,
+    "etkinlikTarihi": "2024-05-06T18:00:00+00:00",
+    "etkinligeKalanGun": 23,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Kardeş Türküler Konseri",
+    "slug": "kardes-turkuler-konseri",
+    "dosyalar": [
+      {
+        "id": 12346,
+        "url": "/files/Etkinlik/kardes-turkuler-konseri-39851.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27336,
+        "url": "/files/Etkinlik/kardes-turkuler-konseri-33498.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 26729,
+        "url": "/files/Etkinlik/kardes-turkuler-konseri-62964.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      114
+    ],
+    "mekanlar": [
+      287
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 195,
+        "seansGizle": false,
+        "mekanId": 287,
+        "tarih": "2024-04-19T17:00:00+00:00",
+        "kalanBilet": 234,
+        "fiyat": 448.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 448.00,
+        "etkinligeKalanGun": 6,
+        "satilanBilet": 151,
+        "seansId": 49861,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 195,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      49861
+    ],
+    "toplamKalanBilet": 234,
+    "toplamSatilanBilet": 151,
+    "etkinlikTarihi": "2024-04-19T17:00:00+00:00",
+    "etkinligeKalanGun": 6,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Sıla Konseri",
+    "slug": "sila-konseri",
+    "dosyalar": [
+      {
+        "id": 16570,
+        "url": "/files/Etkinlik/sila-konseri-65158.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 25567,
+        "url": "/files/Etkinlik/sila-konseri-61472.jpeg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 25568,
+        "url": "/files/Etkinlik/sila-konseri-63005.jpeg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      1207
+    ],
+    "mekanlar": [
+      287
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 2667,
+        "seansGizle": false,
+        "mekanId": 287,
+        "tarih": "2024-04-24T18:00:00+00:00",
+        "kalanBilet": 1207,
+        "fiyat": 1425.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 1425.00,
+        "etkinligeKalanGun": 11,
+        "satilanBilet": 763,
+        "seansId": 53012,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 2667,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      53012
+    ],
+    "toplamKalanBilet": 1207,
+    "toplamSatilanBilet": 763,
+    "etkinlikTarihi": "2024-04-24T18:00:00+00:00",
+    "etkinligeKalanGun": 11,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Mert Demir Konseri",
+    "slug": "mert-demir-konseri",
+    "dosyalar": [
+      {
+        "id": 22915,
+        "url": "/files/Etkinlik/mert-demir-konseri-79686.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 22916,
+        "url": "/files/Etkinlik/mert-demir-konseri-33379.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 22917,
+        "url": "/files/Etkinlik/mert-demir-konseri-92628.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      168
+    ],
+    "mekanlar": [
+      382
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 265,
+        "seansGizle": false,
+        "mekanId": 382,
+        "tarih": "2024-05-08T18:00:00+00:00",
+        "kalanBilet": 200,
+        "fiyat": 880.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 880.00,
+        "etkinligeKalanGun": 25,
+        "satilanBilet": 135,
+        "seansId": 51706,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 265,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      51706
+    ],
+    "toplamKalanBilet": 200,
+    "toplamSatilanBilet": 135,
+    "etkinlikTarihi": "2024-05-08T18:00:00+00:00",
+    "etkinligeKalanGun": 25,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Ahmet Aslan Konseri",
+    "slug": "ahmet-aslan-konseri",
+    "dosyalar": [
+      {
+        "id": 1577,
+        "url": "/files/Etkinlik/ahmet-aslan-konseri-80007.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 800,
+        "yukseklik": 534,
+        "sira": 0
+      },
+      {
+        "id": 1578,
+        "url": "/files/Etkinlik/ahmet-aslan-konseri-41512.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 480,
+        "yukseklik": 690,
+        "sira": 0
+      },
+      {
+        "id": 2714,
+        "url": "/files/Etkinlik/ahmet-aslan-konseri-32463.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 1024,
+        "yukseklik": 1024,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      164
+    ],
+    "mekanlar": [
+      471
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 257,
+        "seansGizle": false,
+        "mekanId": 471,
+        "tarih": "2024-04-27T18:00:00+00:00",
+        "kalanBilet": 88,
+        "fiyat": 333.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 333.00,
+        "etkinligeKalanGun": 14,
+        "satilanBilet": 56,
+        "seansId": 49955,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 257,
+        "seansGizle": false,
+        "mekanId": 471,
+        "tarih": "2024-04-27T15:00:00+00:00",
+        "kalanBilet": 115,
+        "fiyat": 385.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 385.00,
+        "etkinligeKalanGun": 14,
+        "satilanBilet": 5,
+        "seansId": 61489,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 257,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      49955,
+      61489
+    ],
+    "toplamKalanBilet": 203,
+    "toplamSatilanBilet": 61,
+    "etkinlikTarihi": "2024-04-27T15:00:00+00:00",
+    "etkinligeKalanGun": 14,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Yasemin Sakallıoğlu- Doğru Koca Nasıl Seçilir?",
+    "slug": "yasemin-sakallioglu-dogru-koca-nasil-secilir",
+    "dosyalar": [
+      {
+        "id": 12967,
+        "url": "/files/Etkinlik/yasemin-sakallioglu-dogru-koca-nasil-secilir-15842.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 12968,
+        "url": "/files/Etkinlik/yasemin-sakallioglu-dogru-koca-nasil-secilir-28455.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 12969,
+        "url": "/files/Etkinlik/yasemin-sakallioglu-dogru-koca-nasil-secilir-38642.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      1140
+    ],
+    "mekanlar": [
+      287
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 2549,
+        "seansGizle": false,
+        "mekanId": 287,
+        "tarih": "2024-05-29T18:00:00+00:00",
+        "kalanBilet": 147,
+        "fiyat": 630.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 630.00,
+        "etkinligeKalanGun": 46,
+        "satilanBilet": 43,
+        "seansId": 56935,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 2549,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      56935
+    ],
+    "toplamKalanBilet": 147,
+    "toplamSatilanBilet": 43,
+    "etkinlikTarihi": "2024-05-29T18:00:00+00:00",
+    "etkinligeKalanGun": 46,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Sefa Doğanay Show",
+    "slug": "sefa-doganay-show",
+    "dosyalar": [
+      {
+        "id": 27003,
+        "url": "/files/Etkinlik/sefa-doganay-show-91285.jpeg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27004,
+        "url": "/files/Etkinlik/sefa-doganay-show-75744.jpeg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27005,
+        "url": "/files/Etkinlik/sefa-doganay-show-31087.jpeg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [],
+    "mekanlar": [
+      319
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 4987,
+        "seansGizle": false,
+        "mekanId": 319,
+        "tarih": "2024-04-20T17:30:00+00:00",
+        "kalanBilet": 69,
+        "fiyat": 330.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 330.00,
+        "etkinligeKalanGun": 7,
+        "satilanBilet": 42,
+        "seansId": 52739,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 4987,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      52739
+    ],
+    "toplamKalanBilet": 69,
+    "toplamSatilanBilet": 42,
+    "etkinlikTarihi": "2024-04-20T17:30:00+00:00",
+    "etkinligeKalanGun": 7,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Blok3 Konseri",
+    "slug": "blok3-konseri",
+    "dosyalar": [
+      {
+        "id": 20003,
+        "url": "/files/Etkinlik/blok3-konseri-36533.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 20004,
+        "url": "/files/Etkinlik/blok3-konseri-26414.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 20005,
+        "url": "/files/Etkinlik/blok3-konseri-18636.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      1260
+    ],
+    "mekanlar": [
+      320
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 2749,
+        "seansGizle": false,
+        "mekanId": 320,
+        "tarih": "2024-04-26T17:30:00+00:00",
+        "kalanBilet": 600,
+        "fiyat": 400.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 400.00,
+        "etkinligeKalanGun": 13,
+        "satilanBilet": 34,
+        "seansId": 59422,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 2749,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59422
+    ],
+    "toplamKalanBilet": 600,
+    "toplamSatilanBilet": 34,
+    "etkinlikTarihi": "2024-04-26T17:30:00+00:00",
+    "etkinligeKalanGun": 13,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Kanlı Nigar Müzikali",
+    "slug": "kanli-nigar-muzikali",
+    "dosyalar": [
+      {
+        "id": 9499,
+        "url": "/files/Etkinlik/kanli-nigar-muzikali-27608.JPG",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 9500,
+        "url": "/files/Etkinlik/kanli-nigar-muzikali-50741.JPG",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 9501,
+        "url": "/files/Etkinlik/kanli-nigar-muzikali-50979.JPG",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      733
+    ],
+    "mekanlar": [
+      287
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 1621,
+        "seansGizle": false,
+        "mekanId": 287,
+        "tarih": "2024-04-17T17:00:00+00:00",
+        "kalanBilet": 112,
+        "fiyat": 350.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 240.00,
+        "etkinligeKalanGun": 4,
+        "satilanBilet": 24,
+        "seansId": 58349,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 1621,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      58349
+    ],
+    "toplamKalanBilet": 112,
+    "toplamSatilanBilet": 24,
+    "etkinlikTarihi": "2024-04-17T17:00:00+00:00",
+    "etkinligeKalanGun": 4,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Kaan Sekban Saçmalar",
+    "slug": "kaan-sekban-sacmalar",
+    "dosyalar": [
+      {
+        "id": 6953,
+        "url": "/files/Etkinlik/kaan-sekban-sacmalar-89226.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 6954,
+        "url": "/files/Etkinlik/kaan-sekban-sacmalar-48259.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 6955,
+        "url": "/files/Etkinlik/kaan-sekban-sacmalar-27065.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      792
+    ],
+    "mekanlar": [
+      319
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 1514,
+        "seansGizle": false,
+        "mekanId": 319,
+        "tarih": "2024-05-28T17:30:00+00:00",
+        "kalanBilet": 159,
+        "fiyat": 500.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 500.00,
+        "etkinligeKalanGun": 45,
+        "satilanBilet": 13,
+        "seansId": 59878,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 1514,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59878
+    ],
+    "toplamKalanBilet": 159,
+    "toplamSatilanBilet": 13,
+    "etkinlikTarihi": "2024-05-28T17:30:00+00:00",
+    "etkinligeKalanGun": 45,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Baturay Özdemir Stand Up",
+    "slug": "baturay-ozdemir-stand-up",
+    "dosyalar": [
+      {
+        "id": 13495,
+        "url": "/files/Etkinlik/baturay-ozdemir-stand-up-82670.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 13496,
+        "url": "/files/Etkinlik/baturay-ozdemir-stand-up-65303.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 13497,
+        "url": "/files/Etkinlik/baturay-ozdemir-stand-up-58792.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      1160
+    ],
+    "mekanlar": [
+      287
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 2642,
+        "seansGizle": false,
+        "mekanId": 287,
+        "tarih": "2024-04-26T17:30:00+00:00",
+        "kalanBilet": 96,
+        "fiyat": 605.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 605.00,
+        "etkinligeKalanGun": 13,
+        "satilanBilet": 6,
+        "seansId": 61906,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 2642,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      61906
+    ],
+    "toplamKalanBilet": 96,
+    "toplamSatilanBilet": 6,
+    "etkinlikTarihi": "2024-04-26T17:30:00+00:00",
+    "etkinligeKalanGun": 13,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Macbeth Oyunu",
+    "slug": "macbeth-oyunu",
+    "dosyalar": [
+      {
+        "id": 30321,
+        "url": "/files/Etkinlik/macbeth-oyunu-37897.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 30322,
+        "url": "/files/Etkinlik/macbeth-oyunu-17886.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 30320,
+        "url": "/files/Etkinlik/macbeth-oyunu-46068.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [],
+    "mekanlar": [
+      737
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 5053,
+        "seansGizle": false,
+        "mekanId": 737,
+        "tarih": "2024-05-20T17:00:00+00:00",
+        "kalanBilet": 85,
+        "fiyat": 280.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 37,
+        "satilanBilet": 4,
+        "seansId": 58986,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 5053,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      58986
+    ],
+    "toplamKalanBilet": 85,
+    "toplamSatilanBilet": 4,
+    "etkinlikTarihi": "2024-05-20T17:00:00+00:00",
+    "etkinligeKalanGun": 37,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Frida Oyunu",
+    "slug": "frida-oyunu-",
+    "dosyalar": [
+      {
+        "id": 27168,
+        "url": "/files/Etkinlik/frida-oyunu--41226.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27169,
+        "url": "/files/Etkinlik/frida-oyunu--44580.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27170,
+        "url": "/files/Etkinlik/frida-oyunu--33499.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [],
+    "mekanlar": [
+      737
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 5021,
+        "seansGizle": false,
+        "mekanId": 737,
+        "tarih": "2024-04-17T17:00:00+00:00",
+        "kalanBilet": 40,
+        "fiyat": 400.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 400.00,
+        "etkinligeKalanGun": 4,
+        "satilanBilet": 3,
+        "seansId": 54866,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 5021,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      54866
+    ],
+    "toplamKalanBilet": 40,
+    "toplamSatilanBilet": 3,
+    "etkinlikTarihi": "2024-04-17T17:00:00+00:00",
+    "etkinligeKalanGun": 4,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Karı Koca İşleri Oyunu",
+    "slug": "kari-koca-isleri",
+    "dosyalar": [
+      {
+        "id": 4090,
+        "url": "/files/Etkinlik/kari-koca-isleri-32600.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 800,
+        "yukseklik": 500,
+        "sira": 0
+      },
+      {
+        "id": 4091,
+        "url": "/files/Etkinlik/kari-koca-isleri-58115.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 480,
+        "yukseklik": 690,
+        "sira": 0
+      },
+      {
+        "id": 4092,
+        "url": "/files/Etkinlik/kari-koca-isleri-85026.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 1024,
+        "yukseklik": 1024,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      656
+    ],
+    "mekanlar": [
+      319
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 990,
+        "seansGizle": false,
+        "mekanId": 319,
+        "tarih": "2024-04-25T17:00:00+00:00",
+        "kalanBilet": 43,
+        "fiyat": 390.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 300.00,
+        "etkinligeKalanGun": 12,
+        "satilanBilet": 2,
+        "seansId": 56740,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 990,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      56740
+    ],
+    "toplamKalanBilet": 43,
+    "toplamSatilanBilet": 2,
+    "etkinlikTarihi": "2024-04-25T17:00:00+00:00",
+    "etkinligeKalanGun": 12,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Kadınlar Savaşı Lysistrata Oyunu",
+    "slug": "kadinlar-savasi-lysistrata-oyunu",
+    "dosyalar": [
+      {
+        "id": 31572,
+        "url": "/files/Etkinlik/kadinlar-savasi-lysistrata-oyunu-83483.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 31573,
+        "url": "/files/Etkinlik/kadinlar-savasi-lysistrata-oyunu-48466.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 31574,
+        "url": "/files/Etkinlik/kadinlar-savasi-lysistrata-oyunu-77483.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [],
+    "mekanlar": [
+      737
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 4918,
+        "seansGizle": false,
+        "mekanId": 737,
+        "tarih": "2024-04-28T17:00:00+00:00",
+        "kalanBilet": 57,
+        "fiyat": 360.75,
+        "promoteOnly": false,
+        "indirimliFiyat": 360.75,
+        "etkinligeKalanGun": 15,
+        "satilanBilet": 0,
+        "seansId": 50733,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 4918,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      50733
+    ],
+    "toplamKalanBilet": 57,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-04-28T17:00:00+00:00",
+    "etkinligeKalanGun": 15,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Memleket Meselesi Oyunu",
+    "slug": "aziz-nesin-memleket-meselesi-oyunu",
+    "dosyalar": [
+      {
+        "id": 22889,
+        "url": "/files/Etkinlik/aziz-nesin-memleket-meselesi-oyunu-69875.png",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 22890,
+        "url": "/files/Etkinlik/aziz-nesin-memleket-meselesi-oyunu-79737.png",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 22891,
+        "url": "/files/Etkinlik/aziz-nesin-memleket-meselesi-oyunu-95407.png",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 22892,
+        "url": "/files/Etkinlik/aziz-nesin-memleket-meselesi-oyunu-15638.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 22893,
+        "url": "/files/Etkinlik/aziz-nesin-memleket-meselesi-oyunu-39039.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 22894,
+        "url": "/files/Etkinlik/aziz-nesin-memleket-meselesi-oyunu-83966.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [],
+    "mekanlar": [
+      471
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 3748,
+        "seansGizle": false,
+        "mekanId": 471,
+        "tarih": "2024-04-18T17:00:00+00:00",
+        "kalanBilet": 63,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 5,
+        "satilanBilet": 0,
+        "seansId": 59336,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 3748,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59336
+    ],
+    "toplamKalanBilet": 63,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-04-18T17:00:00+00:00",
+    "etkinligeKalanGun": 5,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "İzArt - Resim ve Heykel Workshopları - Mersin",
+    "slug": "izart-resim-ve-heykel-workshoplari",
+    "dosyalar": [
+      {
+        "id": 27510,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-65310.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27511,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-60110.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27512,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-34172.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 27513,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-18063.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 1
+      },
+      {
+        "id": 27514,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-31262.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 2
+      },
+      {
+        "id": 27515,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-28738.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 3
+      },
+      {
+        "id": 27516,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-77276.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 4
+      },
+      {
+        "id": 27517,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-71021.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 5
+      },
+      {
+        "id": 27518,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-87126.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 6
+      },
+      {
+        "id": 27519,
+        "url": "/files/Etkinlik/izart-resim-ve-heykel-workshoplari-45246.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 7
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [],
+    "mekanlar": [
+      1122,
+      1645
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-14T12:00:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 250.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 250.00,
+        "etkinligeKalanGun": 1,
+        "satilanBilet": 0,
+        "seansId": 59883,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-18T16:00:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 250.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 250.00,
+        "etkinligeKalanGun": 5,
+        "satilanBilet": 0,
+        "seansId": 59884,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-19T16:00:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 250.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 250.00,
+        "etkinligeKalanGun": 6,
+        "satilanBilet": 0,
+        "seansId": 59892,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-21T12:00:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 250.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 250.00,
+        "etkinligeKalanGun": 8,
+        "satilanBilet": 0,
+        "seansId": 59895,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-25T16:00:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 250.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 250.00,
+        "etkinligeKalanGun": 12,
+        "satilanBilet": 0,
+        "seansId": 59897,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-27T10:30:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 300.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 300.00,
+        "etkinligeKalanGun": 14,
+        "satilanBilet": 0,
+        "seansId": 59899,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-28T12:00:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 250.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 250.00,
+        "etkinligeKalanGun": 15,
+        "satilanBilet": 0,
+        "seansId": 59901,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-20T10:30:00+00:00",
+        "kalanBilet": 5,
+        "fiyat": 300.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 300.00,
+        "etkinligeKalanGun": 7,
+        "satilanBilet": 0,
+        "seansId": 60079,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-14T12:00:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 1,
+        "satilanBilet": 0,
+        "seansId": 60114,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-18T16:00:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 5,
+        "satilanBilet": 0,
+        "seansId": 60117,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-19T16:00:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 6,
+        "satilanBilet": 0,
+        "seansId": 60121,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1645,
+        "tarih": "2024-04-20T14:30:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 7,
+        "satilanBilet": 0,
+        "seansId": 60123,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-21T12:00:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 8,
+        "satilanBilet": 0,
+        "seansId": 60124,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-25T16:00:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 12,
+        "satilanBilet": 0,
+        "seansId": 60126,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-26T16:00:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 13,
+        "satilanBilet": 0,
+        "seansId": 60127,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1122,
+        "tarih": "2024-04-28T12:00:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 15,
+        "satilanBilet": 0,
+        "seansId": 60128,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      },
+      {
+        "etkinlikId": 5072,
+        "seansGizle": false,
+        "mekanId": 1645,
+        "tarih": "2024-04-27T14:30:00+00:00",
+        "kalanBilet": 10,
+        "fiyat": 200.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 200.00,
+        "etkinligeKalanGun": 14,
+        "satilanBilet": 0,
+        "seansId": 60129,
+        "koltukSecimi": false,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 5072,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      59883,
+      59884,
+      59892,
+      59895,
+      59897,
+      59899,
+      59901,
+      60079,
+      60114,
+      60117,
+      60121,
+      60123,
+      60124,
+      60126,
+      60127,
+      60128,
+      60129
+    ],
+    "toplamKalanBilet": 130,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-04-14T12:00:00+00:00",
+    "etkinligeKalanGun": 1,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Aşk Kaşıntısı",
+    "slug": "ask-kasintisi",
+    "dosyalar": [
+      {
+        "id": 29654,
+        "url": "/files/Etkinlik/ask-kasintisi-75849.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 29655,
+        "url": "/files/Etkinlik/ask-kasintisi-90024.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      },
+      {
+        "id": 29656,
+        "url": "/files/Etkinlik/ask-kasintisi-45345.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 0,
+        "yukseklik": 0,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      632
+    ],
+    "mekanlar": [
+      737
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 5455,
+        "seansGizle": false,
+        "mekanId": 737,
+        "tarih": "2024-04-24T17:00:00+00:00",
+        "kalanBilet": 29,
+        "fiyat": 700.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 350.00,
+        "etkinligeKalanGun": 11,
+        "satilanBilet": 0,
+        "seansId": 60323,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 5455,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      60323
+    ],
+    "toplamKalanBilet": 29,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-04-24T17:00:00+00:00",
+    "etkinligeKalanGun": 11,
+    "promoteOnly": false
+  },
+  {
+    "etkinlikAdi": "Güneyli Bayan Oyunu",
+    "slug": "guneyli-bayan-oyunu",
+    "dosyalar": [
+      {
+        "id": 1861,
+        "url": "/files/Etkinlik/5e1c123418c77313c8499043-31587.jpg",
+        "gosterimYeri": "yatayResim",
+        "genislik": 800,
+        "yukseklik": 500,
+        "sira": 0
+      },
+      {
+        "id": 1862,
+        "url": "/files/Etkinlik/guneyli-bayan-38023.jpg",
+        "gosterimYeri": "dikeyResim",
+        "genislik": 480,
+        "yukseklik": 689,
+        "sira": 0
+      },
+      {
+        "id": 3451,
+        "url": "/files/Etkinlik/guneyli-bayan-oyunu-75884.jpg",
+        "gosterimYeri": "etkinlikReklam",
+        "genislik": 1024,
+        "yukseklik": 1024,
+        "sira": 0
+      }
+    ],
+    "sira": 999,
+    "sanatcilar": [
+      177,
+      253
+    ],
+    "mekanlar": [
+      319
+    ],
+    "seanslar": [
+      {
+        "etkinlikId": 420,
+        "seansGizle": false,
+        "mekanId": 319,
+        "tarih": "2024-05-20T17:30:00+00:00",
+        "kalanBilet": 38,
+        "fiyat": 440.00,
+        "promoteOnly": false,
+        "indirimliFiyat": 440.00,
+        "etkinligeKalanGun": 37,
+        "satilanBilet": 0,
+        "seansId": 61504,
+        "koltukSecimi": true,
+        "yardimEtkinlik": false
+      }
+    ],
+    "etkinlikId": 420,
+    "tumSehirlerdeGoster": false,
+    "seansIdler": [
+      61504
+    ],
+    "toplamKalanBilet": 38,
+    "toplamSatilanBilet": 0,
+    "etkinlikTarihi": "2024-05-20T17:30:00+00:00",
+    "etkinligeKalanGun": 37,
+    "promoteOnly": false
+  }
+]

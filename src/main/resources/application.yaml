@@ -1,3 +1,50 @@
 spring:
+  autoconfigure:
+    exclude: org.springframework.boot.actuate.autoconfigure.tracing.BraveAutoConfiguration
   application:
     name: social-buddy
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: test
+    redis:
+      host: localhost
+      port: 6379
+
+  threads:
+    virtual:
+      enabled: true
+
+springdoc:
+  swagger-ui:
+    path: swagger
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+  otlp:
+    metrics:
+      export:
+        url: http://localhost:4318/v1/metrics
+        step: 10s
+    tracing:
+      endpoint: http://localhost:4318/v1/traces
+  tracing:
+    sampling:
+      probability: 1.0
+
+apis:
+  bubilet: https://apiv2.bubilet.com.tr/api/
+
+
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            core:
+              MongoTemplate: DEBUG
